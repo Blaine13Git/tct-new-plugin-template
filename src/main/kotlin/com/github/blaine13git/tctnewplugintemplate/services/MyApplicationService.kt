@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.blaine13git.tctnewplugintemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.blaine13git.tctnewplugintemplate.MyBundle
 
 class MyApplicationService {
 
